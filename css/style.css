@@ -74,7 +74,7 @@ text-transform: uppercase;
     font-size: 1.1rem;
 }
 
-/*---Course Section*/
+/*---ABOUT ME Section*/
 .narrow {
     width: 75%;
     margin: 1.5rem auto;
@@ -102,7 +102,7 @@ text-transform: uppercase;
         border-color: #189582;
        }
 
-/*Features Section*/
+/*Key FACTS Section*/
 .jumbtron{
     margin-bottom: 0;
     padding: 2rem 0 3.5rem;
@@ -122,20 +122,20 @@ h3.heading {
     background-color:#1ebba3;
     margin: 0 auto 2rem;
 }
-.feature svg.svg-inline--fa{
+.fact svg.svg-inline--fa{
     color:#1ebba3;
 }
-.feature h3{
+.fact h3{
     font-size: 1.3rem;
     text-transform: uppercase;
     padding-bottom: .4rem;
 
 }
-.feature p{
+.fact p{
     font-size: 1.1rem;
 }
 
-/*Resources Section*/
+/*Future Section*/
 .fixed {
     background-image: url(../img/apple.png) ;
     z-index: -1;
@@ -158,7 +158,7 @@ h3.heading {
 
 /*Clients Section */
 
-.clients img{
+.friends img{
     width: 100%;
     border-radius: 50%;
 }
@@ -166,7 +166,7 @@ blockquote  .svg-inline--fa{
     color:#1ebba3;
     margin: 1rem;
 }
-.clients-hr{
+.friends-hr{
     border-top: .05rem solid #1ebba3;
 }
 
@@ -219,7 +219,7 @@ hr.socket{
         font-size: 1.5rem;
     
     }
-    .clients img{
+    .friends img{
         max-width: 50%;
         display: block;
         margin: 0 auto;
