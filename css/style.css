@@ -98,8 +98,8 @@ text-transform: uppercase;
     }
 
     .btn-secondary:hover{
-        background-color: #d4af37;
-        border-color: #d4af37;
+        background-color: #d4d137;
+        border-color: #d4d137;
        }
 
 /*Key FACTS Section*/
@@ -137,7 +137,7 @@ h3.heading {
 
 /*Future Section*/
 .fixed {
-    background-image: url(../img/apple.png) ;
+    background-image: url(../img/1background.jpg) ;
     z-index: -1;
 
 }
@@ -172,7 +172,7 @@ blockquote  .svg-inline--fa{
 
 /*Contact Section*/
 footer{
-    background-color:#40474e;
+    background-color:black;
     color: white;
     padding: 2rem 0 2rem;
     margin-top: 1rem;
@@ -194,7 +194,7 @@ footer svg.svg-inline--fa:hover{
 }
 hr.socket{
     width: 100%;
-    border-top: .2rem solid #666b71;
+    border-top: .2rem solid black;
     margin-top: 3rem;
 }
 
